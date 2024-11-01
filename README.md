@@ -4,7 +4,7 @@
 >
 ![Animation](https://github.com/user-attachments/assets/c8ab3e58-c601-48e8-8ddb-9956f9c92866)
 
-Project launch
+Project launch <br>
 `npm i`
 
 `npm run dev`
